@@ -1,0 +1,15 @@
+
+Fitur unik (Sistem Bimbingan Akademik)
+dapat bimbingan dengan dosen sebelum war siasat
+
+
+Fitur fitur yang akan dibuat:
+1. Login
+2. Home
+3. Registrasi Ulang 
+4. Registrasi Mata Kuliah
+5. Kartu Studi 
+6. Hasil Studi
+7. Jadwal Kuliah
+8. Transkrip Nilai
+9. Tagihan
